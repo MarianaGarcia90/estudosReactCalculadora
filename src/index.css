@@ -1,0 +1,18 @@
+* {
+  font-family: 'Roboto Mono', monospace;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  /* altura dividida em 100 partes, ou seja, nesse caso pegou a altura completa */
+  justify-content: center;
+  align-items: center;
+  /* alinha verticalmente */
+  text-align: center;
+
+  color: #fff;
+  background: linear-gradient(to right, #e96443, #904e95);
+}
+
+
